@@ -7,8 +7,11 @@ function criarMeta() {}
 ## Arrow function
 const criarMeta = () => {}
 
+## Array
+- [x] Métodos de Array: push, find, forEach
+
 ## Condicionais
-- switch
+- [x] switch
 
 switch(opcao) {
     case "cadastrar":
@@ -33,4 +36,3 @@ switch(opcao) {
     sempre que há um await, precisa ter um async
     await indica que a função a seguir é uma promessa
 
-- [x] 25:31
