@@ -33,4 +33,4 @@ switch(opcao) {
     sempre que há um await, precisa ter um async
     await indica que a função a seguir é uma promessa
 
-- [x] 
+- [x] 25:31
