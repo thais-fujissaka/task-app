@@ -25,7 +25,7 @@ const salvarMetas = async () => {
 const cadastrarMeta = async () => {
     const meta = await input({ message: "Digite a meta:"})
 
-    if(meta.length == 0) {
+    if(metas.length == 0) {
         mensagem = "A meta não pode ser vazia."
         return
     }
