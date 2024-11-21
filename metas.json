@@ -1,0 +1,10 @@
+[
+  {
+    "value": "andar",
+    "checked": true
+  },
+  {
+    "value": "estudar",
+    "checked": false
+  }
+]
