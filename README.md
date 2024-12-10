@@ -1,2 +1,5 @@
 # task-app
-Building a simple task app with JS and Node.js
+Aplicativo simples de gerenciamento de tasks com JavaScript e Node.js.
+
+Para rodar:
+`$ node index.js` 
